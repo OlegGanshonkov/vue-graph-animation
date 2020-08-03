@@ -397,6 +397,7 @@
     h1 {
         color: #fff;
         padding: 20px 40px;
+        font-size: 32px;
     }
 
     h1 span {
@@ -567,6 +568,7 @@
         background: transparent url('~@/assets/static/bgLineBlue.png') left center repeat-x;
         background-size: 5px 30px;
         background-size: cover;
+        font-size: 16px;
     }
 
     .graph > div.line3 {
