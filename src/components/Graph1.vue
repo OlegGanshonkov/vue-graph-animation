@@ -3,7 +3,7 @@
         <div class="overlay"></div>
         <div class="overlay2"></div>
 
-        <h1>starcraft 2 <span>10 years</span></h1>
+        <h1>starcraft 2<span>balance?</span> </h1>
 
         <div class="winnersInfo">Winners:</div>
         <div class="winners">
@@ -76,7 +76,7 @@
                 stepsCount: 0,
                 hideControl: false,
                 animation: null,
-                duration: 5000,
+                duration: 3000,
                 wrapHeight: null, // Высота парента линии
                 wrapAnim: false,
                 x: null, // Ось X
