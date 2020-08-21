@@ -284,7 +284,10 @@
                             }, start)
                     });
                 });
-                vm.animation.play();
+                setTimeout(function (){
+                  vm.animation.play();
+                }, 5000);
+
                 vm.hideControl = true;
             },
             reload() {
